@@ -7,7 +7,7 @@ Como forma de melhor organização e administração, esse repositório foi feit
 Os arquivos serão adicionados e direcionados conforme desenvolvimento do curso. 
 * [**Criando repositório no GitHub para compartilhar o progresso**](https://github.com/ninapalmadev/dio-desafio-github-primeiro-repositorio)
 
-* **Recriando a Interface do Netflix**
+* [**Recriando a Interface do Netflix**](https://github.com/ninapalmadev/interface-netflix)
 * **Desafio Impulso Iniciante - JavaScript**
 * **Desafio Impulso Intermediário - JavaScript**
 * **Criando o front-end com ReactJS**
