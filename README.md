@@ -2,7 +2,7 @@
 
 Desafio de Projeto sobre Git/Github
 
-Como forma de melhor organização e administração, esse repositório foi feito para listar projetos e desafios realizados durante o Bootcamp Impulso Fullstack Web Developer :v:
+Como forma de melhor organização e administração, esse repositório foi feito para listar projetos e desafios realizados durante o Bootcamp Spread Fullstack Developer :v:
 
 Os arquivos serão adicionados e direcionados conforme desenvolvimento do curso. 
 * [**Criando repositório no GitHub para compartilhar o progresso**](https://github.com/ninapalmadev/dio-desafio-github-primeiro-repositorio)
